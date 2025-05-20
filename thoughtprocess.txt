@@ -1,0 +1,3 @@
+so first we can just set up a normal server, so we need to obtain the destination from the req, transfer it to the dummy json part and return that json in the webpage
+
+then we can try to add the caching part to it
