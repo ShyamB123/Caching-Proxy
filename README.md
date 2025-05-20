@@ -27,7 +27,7 @@ pip install requests requests
 ## Start the Server
 
 ```
-python proxy_server.py --port <number> --origin <url>
+python server.py --port <number> --origin <url>
 ```
 --port: The port on which the proxy server should run.
 
@@ -38,7 +38,7 @@ python proxy_server.py --port <number> --origin <url>
 ## Clear the Cache
 
 ```
-python proxy_server.py --clear-cache
+python server.py --clear-cache
 ```
 
 
